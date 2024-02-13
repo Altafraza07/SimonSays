@@ -10,7 +10,7 @@ body {
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 2.8rem;
-  margin:  1%;
+  margin:  3.5%;
   color: #FEF2BF;
 }
 
@@ -29,7 +29,7 @@ body {
 
 }
 .btn {
-  margin: 10px 25px 25px 25px;
+  margin: 25px;
   display: inline-block;
   height: 200px;
   width: 200px;
@@ -68,7 +68,7 @@ footer{
 }
 
 .startReset{
-font-family: 'Press Start 2P', cursive;;
+font-family: Nunito;
 font-weight: 600;
 font-size: 15px;
 color:  #FBFADA;
@@ -106,14 +106,14 @@ margin: 0px 20px;
   }
 
   .container {
-    width: 100%;
-  
+    width: 80%; 
+    margin: auto; 
   }
 
   .btn {
-    margin: 10px;
-    height: 150px;
-    width: 150px;
+    height: 180px; 
+    width: 180px;
+    margin: 20px; 
     border: 10px solid black;
     border-radius: 20%;
   }
@@ -121,18 +121,19 @@ margin: 0px 20px;
   #level-title {
     font-family: 'Press Start 2P', cursive;
     font-size: 2rem;
-    margin:  5%;
+    margin:  7%;
     color: #FEF2BF;
   }
 
-  .container {
-    margin-top: 20px; /* Add margin to the top of the container */
+.startReset{
+  font-family: 'Press Start 2P', cursive;
+  font-weight: 600;
+  font-size: 10px;
 }
 
-h1#level-title {
-    margin-top: 20px; /* Add margin to the top of the heading */
-}
-
+  footer {
+    margin-top: 20px; /* Adjust margin */
+  }
 }
 
 
