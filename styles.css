@@ -65,6 +65,9 @@ body {
 
 footer{
   color: antiquewhite;
+  display: grid;
+  align-self: end;
+  font-size:1.5rem;
 }
 
 .startReset{
